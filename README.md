@@ -1,4 +1,4 @@
-# Wilfred-2008 #   
+# Wilfred:2008 #   
 _February 2018 MAGS winner_   
    
 **AGS game about a cat and his A.I. Samantha.** ![Wilfred](wilfred.png)

@@ -1,0 +1,42 @@
+Wilfred:2088 was created for MAGS February 2018.
+Created by HanaIndiana from the AGS forums.
+
+MAGS theme: "Mix and Match"
+My chosen mix and match is Sci-fi, In the future, Spaceship
+
+------ MUSIC ----------
+Various Original music by Shane Ivers
+(Highly recommend checking him out for your game music needs.)
+
+Music used:
+Quiescent In Time
+Dubstep Damage
+Chicken Hut Bluegrass
+Samovar Party
+It's Not Over 'Til The Bossa Nova
+
+Menu music by Tom Bradshaw.
+-------------------------
+
+------- SOUNDS ----------
+Spaceship ambience:  https://www.youtube.com/watch?v=NeESf9aCZHQ
+
+Sound effects obtained from https://www.zapsplat.com
+https://www.zapsplat.com/sound-effect-category/spacecraft/
+https://www.zapsplat.com/sound-effect-category/sirens-and-alarms/
+
+Sounds from soundbible.com
+http://soundbible.com/205-The-Cats-Meow.html
+http://soundbible.com/1363-Angry-Cat.html
+http://soundbible.com/480-Kids-Cheering.html
+
+------- GAME ENGINE ------
+
+AGS created by Chris Jones
+http://www.adventuregamestudio.co.uk
+
+TrueType font display uses ALFont by Javier Gonzalez and the Freetype project. Distributed under the terms of the FreeType project license.
+
+OGG player is alogg by Javier Gonzalez, using the Ogg Vorbis decoder, which is available from http://www.xiph.org/ Copyright (c) 2002-2008, Xiph.org Foundation
+
+MP3 player is almp3, by Javier Gonzalez and the FreeAmp team. It uses the mpg123 MP3 decoder, and is distributed under the terms of the GNU Lesser General Public License version 2.1.
